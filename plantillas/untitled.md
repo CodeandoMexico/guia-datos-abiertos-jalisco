@@ -8,12 +8,17 @@ description: >-
 
 A continuación puedes encontrar una lista de plantillas y recursos base que pueden ser utilizados como referencia o modificados para la implementación de la Política de Datos Abiertos.
 
-| Documento | Descripción | Enlace |
-| :--- | :--- | :--- |
-| Open Data Canvas | Canvas para la definición de estrategias integrales de Datos Abiertos. | [https://idatosabiertos.org/wp-content/uploads/2019/02/IL\_CANVAS\_01.jpg](https://idatosabiertos.org/wp-content/uploads/2019/02/IL_CANVAS_01.jpg) |
-| Libre uso Mx | Licencia abierta para la apertura y publicación de datos. | [https://datos.gob.mx/libreusomx](https://datos.gob.mx/libreusomx) |
-| 5 Star Data | Esquema de desarrollo de 5 estrellas para Datos Abiertos. | [https://5stardata.info/es/](https://5stardata.info/es/) |
-| CKAN | Plataforma de código abierto para el manejo y publicación de datos. | [https://ckan.org/](https://ckan.org/) |
+| Documento | Descripción |
+| :--- | :--- |
+| \*\*\*\*[**Open Data Canvas**](https://idatosabiertos.org/wp-content/uploads/2019/02/IL_CANVAS_01.jpg)\*\*\*\* | Canvas para la definición de estrategias integrales de Datos Abiertos. |
+| \*\*\*\*[**Libre uso Mx**](https://datos.gob.mx/libreusomx)\*\*\*\* | Licencia abierta para la apertura y publicación de datos. |
+| \*\*\*\*[**5 Star Data**](https://5stardata.info/es/)\*\*\*\* | Esquema de desarrollo de 5 estrellas para Datos Abiertos. |
+| \*\*\*\*[**CKAN**](https://ckan.org/)\*\*\*\* | Plataforma de código abierto para el manejo y publicación de datos. |
+| \*\*\*\*[**Plan de Apertura**](https://datos.cdmx.gob.mx/dataset/plan-de-apertura-2020)\*\*\*\* |  Plan de Apertura 2020 de la Ciudad de México. |
+| [**Guía práctica de Hojas de Cálculo**](https://politicadedatos.cdmx.gob.mx/cultura/guias_hojas_calculo)\*\*\*\* | Recomendaciones básicas para tener datos de calidad en hojas de cálculo. |
+| \*\*\*\*[**Diccionario de datos**](https://politicadedatos.cdmx.gob.mx/assets/ppts/guia_dicc.pdf)\*\*\*\* | Guía y estándar para la elaboración de Diccionarios de Datos. |
+| \*\*\*\*[**Catálogo de datos**](https://politicadedatos.cdmx.gob.mx/assets/ppts/guia_cat.pdf)\*\*\*\* |  Guía práctica de Catálogos de Referencia. |
+| \*\*\*\*[**Carta Internacional de Datos Abiertos**](https://opendatacharter.net/principles-es/)\*\*\*\* | Es una colaboración entre más de 150 gobiernos y organizaciones que trabajan para abrir datos basados en un conjunto de principios compartidos. |
 
 
 

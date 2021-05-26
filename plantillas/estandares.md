@@ -11,7 +11,12 @@ A continuación puedes encontrar los estándares internacionales que se utilizan
 | Estándar | Descripción |
 | :--- | :--- |
 | \*\*\*\*[**DCAT**](https://www.w3.org/TR/vocab-dcat-2/)\*\*\*\* | Es un vocabulario RDF diseñado para facilitar la interoperabilidad entre catálogos de datos publicados en la Web. |
-|  [**OCDS/EDCA**](https://standard.open-contracting.org/latest/es/)\*\*\*\* |  El Estándar de Datos para las Contrataciones Abiertas, es un estándar de datos abierto, gratuito y no protegido por derechos de propiedad intelectual para la contratación pública, implementado por más de 30 gobiernos en todo el mundo. |
+|  [**OCDS/EDCA**](https://standard.open-contracting.org/latest/es/)\*\*\*\* |  Es el estándar de Datos para las Contrataciones Abiertas, es abierto, gratuito y no protegido por derechos de propiedad intelectual para la contratación pública. |
+| \*\*\*\*[**Web Map Services**](http://www.opengeospatial.org/standards/wms)\*\*\*\* | WMS es el estándar para la definición de datos geoespaciales distribuidos y publicados en la web. |
+| [**Keyhole Markup Language**](https://developers.google.com/kml/)\*\*\*\* | KML es el estándar para la descripción y anotación de mapas. |
+| [**Statistics Data and Metadata eXchange**](https://sdmx.org/)\*\*\*\* | SDMX es el estándar para estadísticas macroeconómicas. |
+| \*\*\*\*[**Resource Description Framework**](https://www.w3.org/RDF/)\*\*\*\* | RDF es una familia de especificaciones de la [World Wide Web Consortium](https://es.wikipedia.org/wiki/World_Wide_Web_Consortium) \(W3C\) originalmente diseñado como un [modelo de datos](https://es.wikipedia.org/wiki/Modelo_de_datos) para [metadatos](https://es.wikipedia.org/wiki/Metadato).  |
+| [**Linked Open Data**](https://www.w3.org/egov/wiki/Linked_Open_Data)\*\*\*\* | LOD describe un método de publicación de datos estructurados para que puedan ser interconectados y más útiles. |
 
 
 
