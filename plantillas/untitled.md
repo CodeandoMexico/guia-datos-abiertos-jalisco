@@ -1,8 +1,12 @@
 ---
-description: En esta sección puedes encontrar plantillas y otros recursos base.
+description: >-
+  En esta sección puedes consultar las plantillas y recursos para la apertura de
+  Datos Abiertos.
 ---
 
 # Plantillas y referencias
+
+A continuación puedes encontrar una lista de plantillas y recursos base que pueden ser utilizados como referencia o modificados para la implementación de la Política de Datos Abiertos.
 
 | Documento | Descripción | Enlace |
 | :--- | :--- | :--- |
