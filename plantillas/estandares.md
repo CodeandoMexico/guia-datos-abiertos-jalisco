@@ -6,7 +6,7 @@ description: >-
 
 # Estándares
 
-A continuación puedes encontrar los estándares internacionales que se utilizan para la apertura de datos y otros recursos de información:
+A continuación puedes encontrar los estándares internacionales que se utilizan para la apertura de datos y otros recursos de información.
 
 | Estándar | Descripción |
 | :--- | :--- |
