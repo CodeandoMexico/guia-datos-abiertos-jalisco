@@ -8,7 +8,7 @@ description: >-
 
 ## Acerca de
 
-Esta Guía de Implementación contiene los lineamiento, estándares y mejores prácticas para que el Congreso del Estado de Jalisco pueda llevar lo establecido en el Política de Datos Abiertos por la que se establece la regulación en la materia.
+Esta Guía de Implementación contiene los lineamientos, recomendaciones y mejores prácticas para que el Congreso del Estado de Jalisco pueda llevar lo establecido en el Política de Datos Abiertos por la que se establece la regulación en la materia.
 
 A través de la implementación de esta política, el Congreso del Estado de Jalisco busca promover la publicación de sus datos digitales de carácter público para que sean accesibles en línea, y puedan ser usados, reutilizados y redistribuidos, con el fin de convertir la información en manos del órgano legislativo en un activo de valor social para la ciudadanía.
 
