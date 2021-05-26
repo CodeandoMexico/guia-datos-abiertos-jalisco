@@ -16,6 +16,8 @@ Para el Plan de Apertura se deberá considerar lo siguiente:
 2. Documentar los mecanismos de priorización utilizados para la selección de los conjuntos de datos que se abrirán en formatos abiertos.
 3. Señalar al público las fechas para la publicación de aquellos conjuntos de datos en formatos abiertos.
 
+![Ejemplo Plan de Apertura](../.gitbook/assets/image%20%284%29.png)
+
 ## **Eliminación o cambios significativos**
 
 Los datos publicados son conjuntos que suponen un cierto uso, reúso y redistribución por cualquier persona. La modificación significativa o eliminación de la publicación de algún recurso de datos deberá evitarse en lo posible o en caso de que esto suceda, se deberá hacer pública la razón y fundamento en la descripción del recurso.
