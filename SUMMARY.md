@@ -4,8 +4,8 @@
 
 ## 1. Gestión <a id="gestion-1"></a>
 
-* [1.1 Generación de datos](gestion-1/untitled.md)
-* [1.2 Criterios de calidad](gestion-1/1.2-criterios-de-calidad.md)
+* [1.1 Gestión de la información](gestion-1/1.1-gestion-de-la-informacion.md)
+* [1.2 Calidad de los datos](gestion-1/1.2-calidad-de-los-datos.md)
 * [1.3 Catálogo de datos](gestion-1/1.2-catalogo-de-datos.md)
 
 ## 2. Procesamiento
@@ -30,6 +30,6 @@
 ## Otros recursos <a id="plantillas"></a>
 
 * [Glosario](plantillas/glosario.md)
-* [Plantillas](plantillas/untitled.md)
 * [Estándares](plantillas/estandares.md)
+* [Plantillas y referencias](plantillas/untitled.md)
 
