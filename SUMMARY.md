@@ -17,10 +17,7 @@
 
 * [3.1 Priorización de datos](3.-publicacion/1.3-priorizacion-de-datos.md)
 * [3.2 Plan de apertura](3.-publicacion/untitled.md)
-* [3.3 Documentación](3.-publicacion/3.2-diccionarios/README.md)
-  * [Metadatos](3.-publicacion/3.2-diccionarios/metadatos.md)
-  * [Diccionario](3.-publicacion/3.2-diccionarios/diccionario.md)
-  * [Licencia](3.-publicacion/3.2-diccionarios/licencia.md)
+* [3.3 Documentación](3.-publicacion/3.2-diccionarios.md)
 
 ## 4. Socialización
 
