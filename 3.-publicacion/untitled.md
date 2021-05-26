@@ -10,7 +10,7 @@ Un Plan de apertura deberá ser el documento de referencia en donde se plasmen l
 
 ## Elaboración
 
-Para el Plan de apertura se deberá considerar lo siguiente:
+Para el Plan de Apertura se deberá considerar lo siguiente:
 
 1. Conformar un listado público de los datos generados o administrados por el Congreso \([Catálogo de datos](https://rmiron.gitbook.io/datos-abiertos-guia-de-implementacion/gestion-1/1.2-catalogo-de-datos)\).
 2. Documentar los mecanismos de priorización utilizados para la selección de los conjuntos de datos que se abrirán en formatos abiertos.

@@ -28,5 +28,5 @@
 
 * [Glosario](plantillas/glosario.md)
 * [Estándares](plantillas/estandares.md)
-* [Plantillas y referencias](plantillas/untitled.md)
+* [Plantillas y recursos](plantillas/untitled.md)
 
