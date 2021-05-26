@@ -11,7 +11,7 @@
 ## 2. Procesamiento
 
 * [2.1 Formatos abiertos](2.-procesamiento/2.1-formatos-abiertos.md)
-* [2.2 Estructura y normalización](2.-procesamiento/2.2-estructura-y-normalizacion.md)
+* [2.2 Interoperabilidad y usabilidad](2.-procesamiento/2.2-estructura-y-normalizacion.md)
 
 ## 3. Publicación
 
