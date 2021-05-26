@@ -22,7 +22,6 @@
 ## 4. Socialización
 
 * [4.1 Promoción de los datos](4.-socializacion/untitled.md)
-* [4.2 Colaboración y participación](4.-socializacion/4.2-colaboracion-y-participacion.md)
 
 ## Otros recursos <a id="plantillas"></a>
 
