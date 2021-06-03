@@ -20,5 +20,5 @@ A continuación puedes encontrar una lista de plantillas y recursos base que pue
 | \*\*\*\*[**Catálogo de datos**](https://politicadedatos.cdmx.gob.mx/assets/ppts/guia_cat.pdf)\*\*\*\* |  Guía práctica de Catálogos de Referencia. |
 | \*\*\*\*[**Carta Internacional de Datos Abiertos**](https://opendatacharter.net/principles-es/)\*\*\*\* | Es una colaboración entre más de 150 gobiernos y organizaciones que trabajan para abrir datos basados en un conjunto de principios compartidos. |
 
-
+> Nota: Los documentos ligados en esta sección son recursos abiertos de terceros que pueden disponer de su propia licencia de uso.
 
