@@ -29,5 +29,5 @@ Agradecemos el trabajo y conocimiento de las siguientes organizaciones que colab
 
 ## Licencia
 
-Esta Guía de Implementación, su contenido y archivos tienen licencia [MIT license ©](https://es.wikipedia.org/wiki/Licencia_MIT#:~:text=La%20licencia%20MIT%20es%20una,%2C%20Massachusetts%20Institute%20of%20Technology%29.) 2021 Codeando México.
+Ésta Guía de Implementación, su contenido y archivos tienen licencia [MIT license ©](https://es.wikipedia.org/wiki/Licencia_MIT#:~:text=La%20licencia%20MIT%20es%20una,%2C%20Massachusetts%20Institute%20of%20Technology%29.) 2021 Codeando México.
 
